@@ -1,0 +1,15 @@
+{
+  "name": "pylocale",
+  "version": "0.0.1",
+  "factorio_version": "0.16",
+  "title": "Pyanodons Locale",
+  "author": "pyanodon, Xagros, 둥둥, 정대윤, Lee, Kim, 안롤드로이드, Baek, SangJoon Park, MarStone",
+  "homepage": "http://cafe.naver.com/facsamo",
+  "description": "",
+  "dependencies": [
+    "? pycoalprocessing",
+    "? pyfusionenergy",
+    "? pyhightech",
+    "? pyindustry"
+  ]
+}
