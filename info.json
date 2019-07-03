@@ -1,16 +1,17 @@
 {
   "name": "pykoreanlocale",
-  "version": "1.0.1",
-  "factorio_version": "0.16",
+  "version": "1.1.0",
+  "factorio_version": "0.17",
   "title": "Pyanodons Korean Locale",
-  "author": "pyanodon, Xagros, 1210, 둥둥, 정대윤, Lee, Kim, 안롤드로이드, Baek, SangJoon Park, MarStone",
+  "author": "XMKTP",
   "homepage": "http://cafe.naver.com/facsamo",
   "description": "",
   "dependencies": [
     "? pycoalprocessing",
     "? pyfusionenergy",
     "? pyhightech",
-    "? pyhightech",
+    "? pyindustry",
+    "? pypetroleumhandling",
     "? pyrawores"
   ]
 }
